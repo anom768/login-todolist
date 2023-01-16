@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ti21b.hikmal.yusif.jamil.michael.bangkit.service.SessionServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.067 s - in ti21b.hikmal.yusif.jamil.michael.bangkit.service.SessionServiceTest
